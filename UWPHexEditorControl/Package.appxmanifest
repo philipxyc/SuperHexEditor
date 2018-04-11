@@ -2,8 +2,8 @@
 <Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" xmlns:rescap="http://schemas.microsoft.com/appx/manifest/foundation/windows10/restrictedcapabilities" IgnorableNamespaces="uap mp rescap">
   <Identity Name="555f4e95-ffba-4d75-8405-4d4cb6c88e3f" Publisher="CN=phili" Version="1.0.0.0" />
   <Properties>
-    <DisplayName>UWPHexEditorControl</DisplayName>
-    <PublisherDisplayName>phili</PublisherDisplayName>
+    <DisplayName>UWPHexEditor</DisplayName>
+    <PublisherDisplayName>philip</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
   <Dependencies>
@@ -15,14 +15,14 @@
   </Resources>
   <Applications>
     <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="$targetentrypoint$">
-      <uap:VisualElements DisplayName="UWPHexEditor" Description="UWPHexEditor based on WPFHexEditorControl" BackgroundColor="transparent" Square150x150Logo="Assets\Square150x150Logo.png" Square44x44Logo="Assets\Square44x44Logo.png">
+      <uap:VisualElements DisplayName="UWPHexEditor" Description="UWPHexEditor based on WPFHexEditorControl" BackgroundColor="#00abec" Square150x150Logo="Assets\Square150x150Logo.png" Square44x44Logo="Assets\Square44x44Logo.png">
         <uap:LockScreen Notification="badge" BadgeLogo="Assets\BadgeLogo.png" />
-        <uap:DefaultTile Wide310x150Logo="Assets\Wide310x150Logo.png" Square310x310Logo="Assets\LargeTile.png" Square71x71Logo="Assets\SmallTile.png">
+        <uap:DefaultTile Wide310x150Logo="Assets\Wide310x150Logo.png" Square310x310Logo="Assets\LargeTile.png" Square71x71Logo="Assets\SmallTile.png" ShortName="UWPHexEditor">
         </uap:DefaultTile>
         <uap:InitialRotationPreference>
           <uap:Rotation Preference="landscape" />
         </uap:InitialRotationPreference>
-        <uap:SplashScreen Image="Assets\SplashScreen.png" />
+        <uap:SplashScreen Image="Assets\SplashScreen.png" BackgroundColor="#00abec" />
       </uap:VisualElements>
     </Application>
   </Applications>

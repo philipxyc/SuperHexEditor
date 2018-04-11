@@ -5,9 +5,14 @@ VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{C7167F0D-BC9F-4E6E-AFE1-012C56B48DB5}") = "UWPHexEditor", "UWPHexEditorControl\UWPHexEditor.wapproj", "{084DD872-04F5-472A-A859-8F6062FA6856}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfHexEditor.Sample.NET47", "WPFHexaEditorExample\WpfHexEditor.Sample.NET47.csproj", "{001BD673-EF33-4FD2-AB7F-57F40FD54D53}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfHexEditor.Sample.NET47", "WpfHexEditorControl\WPFHexaEditorExample\WpfHexEditor.Sample.NET47.csproj", "{001BD673-EF33-4FD2-AB7F-57F40FD54D53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfHexaEditor.NET47", "WpfHexEditorControl\WPFHexaEditor\WpfHexaEditor.NET47.csproj", "{CF6AC02D-02FA-4EE9-A507-BD94F489972E}"
 EndProject
 Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		WpfHexEditorControl\WpfHexaEditor.Shared\WpfHexaEditor.Shared.projitems*{cf6ac02d-02fa-4ee9-a507-bd94f489972e}*SharedItemsImports = 4
+	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Debug|x64 = Debug|x64
@@ -47,6 +52,18 @@ Global
 		{001BD673-EF33-4FD2-AB7F-57F40FD54D53}.Release|x64.Build.0 = Release|Any CPU
 		{001BD673-EF33-4FD2-AB7F-57F40FD54D53}.Release|x86.ActiveCfg = Release|Any CPU
 		{001BD673-EF33-4FD2-AB7F-57F40FD54D53}.Release|x86.Build.0 = Release|Any CPU
+		{CF6AC02D-02FA-4EE9-A507-BD94F489972E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF6AC02D-02FA-4EE9-A507-BD94F489972E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF6AC02D-02FA-4EE9-A507-BD94F489972E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{CF6AC02D-02FA-4EE9-A507-BD94F489972E}.Debug|x64.Build.0 = Debug|Any CPU
+		{CF6AC02D-02FA-4EE9-A507-BD94F489972E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CF6AC02D-02FA-4EE9-A507-BD94F489972E}.Debug|x86.Build.0 = Debug|Any CPU
+		{CF6AC02D-02FA-4EE9-A507-BD94F489972E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF6AC02D-02FA-4EE9-A507-BD94F489972E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF6AC02D-02FA-4EE9-A507-BD94F489972E}.Release|x64.ActiveCfg = Release|Any CPU
+		{CF6AC02D-02FA-4EE9-A507-BD94F489972E}.Release|x64.Build.0 = Release|Any CPU
+		{CF6AC02D-02FA-4EE9-A507-BD94F489972E}.Release|x86.ActiveCfg = Release|Any CPU
+		{CF6AC02D-02FA-4EE9-A507-BD94F489972E}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -39,7 +39,7 @@
     <TargetPlatformMinVersion>10.0.14393.0</TargetPlatformMinVersion>
     <DefaultLanguage>zh-CN</DefaultLanguage>
     <PackageCertificateKeyFile>UWPHexEditorControl_TemporaryKey.pfx</PackageCertificateKeyFile>
-    <EntryPointProjectUniqueName>..\WPFHexaEditorExample\WpfHexEditor.Sample.NET47.csproj</EntryPointProjectUniqueName>
+    <EntryPointProjectUniqueName>..\WpfHexEditorControl\WPFHexaEditorExample\WpfHexEditor.Sample.NET47.csproj</EntryPointProjectUniqueName>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x86'">
     <DefaultLanguage>en-US</DefaultLanguage>
@@ -119,7 +119,7 @@
     <Content Include="Assets\Wide310x150Logo.scale-400.png" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\WPFHexaEditorExample\WpfHexEditor.Sample.NET47.csproj" />
+    <ProjectReference Include="..\WpfHexEditorControl\WPFHexaEditorExample\WpfHexEditor.Sample.NET47.csproj" />
   </ItemGroup>
   <Import Project="$(WapProjPath)\Microsoft.DesktopBridge.targets" />
 </Project>

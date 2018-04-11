@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Source>C:\Users\phili\Documents\Visual Studio 2017\Projects\WpfHexEditorControl - 副本\Images3\Logo-Nuget.png</Source>
-    <SmallTileSource>C:\Users\phili\Documents\Visual Studio 2017\Projects\WpfHexEditorControl - 副本\Images3\Logo-Nuget.png</SmallTileSource>
-    <MediumTileSource>C:\Users\phili\Documents\Visual Studio 2017\Projects\WpfHexEditorControl - 副本\Images3\Logo-Nuget.png</MediumTileSource>
-    <WideTileSource>C:\Users\phili\Documents\Visual Studio 2017\Projects\WpfHexEditorControl - 副本\Images3\Logo-Nuget.png</WideTileSource>
-    <LargeTileSource>C:\Users\phili\Documents\Visual Studio 2017\Projects\WpfHexEditorControl - 副本\Images3\Logo-Nuget.png</LargeTileSource>
-    <AppIconSource>C:\Users\phili\Documents\Visual Studio 2017\Projects\WpfHexEditorControl - 副本\Images3\Logo-Nuget.png</AppIconSource>
-    <SplashScreenSource>C:\Users\phili\Documents\Visual Studio 2017\Projects\WpfHexEditorControl - 副本\Images3\Logo-Nuget.png</SplashScreenSource>
-    <BadgeLogoSource>C:\Users\phili\Documents\Visual Studio 2017\Projects\WpfHexEditorControl - 副本\Images3\Logo-Nuget.png</BadgeLogoSource>
-    <PackageLogoSource>C:\Users\phili\Documents\Visual Studio 2017\Projects\WpfHexEditorControl - 副本\Images3\Logo-Nuget.png</PackageLogoSource>
+    <Source>C:\Users\phili\Documents\Visual Studio 2017\Projects\UWPHexEditorControl\UWPHexEditorControl\Assets\OriginIconw.png</Source>
+    <SmallTileSource>C:\Users\phili\Documents\Visual Studio 2017\Projects\UWPHexEditorControl\UWPHexEditorControl\Assets\OriginIconw.png</SmallTileSource>
+    <MediumTileSource>C:\Users\phili\Documents\Visual Studio 2017\Projects\UWPHexEditorControl\UWPHexEditorControl\Assets\OriginIconw.png</MediumTileSource>
+    <WideTileSource>C:\Users\phili\Documents\Visual Studio 2017\Projects\UWPHexEditorControl\UWPHexEditorControl\Assets\OriginIconw.png</WideTileSource>
+    <LargeTileSource>C:\Users\phili\Documents\Visual Studio 2017\Projects\UWPHexEditorControl\UWPHexEditorControl\Assets\OriginIconw.png</LargeTileSource>
+    <AppIconSource>C:\Users\phili\Documents\Visual Studio 2017\Projects\UWPHexEditorControl\UWPHexEditorControl\Assets\OriginIconw.png</AppIconSource>
+    <SplashScreenSource>C:\Users\phili\Documents\Visual Studio 2017\Projects\UWPHexEditorControl\UWPHexEditorControl\Assets\OriginIconw.png</SplashScreenSource>
+    <BadgeLogoSource>C:\Users\phili\Documents\Visual Studio 2017\Projects\UWPHexEditorControl\UWPHexEditorControl\Assets\OriginIconw.png</BadgeLogoSource>
+    <PackageLogoSource>C:\Users\phili\Documents\Visual Studio 2017\Projects\UWPHexEditorControl\UWPHexEditorControl\Assets\OriginIconw.png</PackageLogoSource>
   </PropertyGroup>
 </Project>
