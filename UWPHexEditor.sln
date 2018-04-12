@@ -1,9 +1,9 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{C7167F0D-BC9F-4E6E-AFE1-012C56B48DB5}") = "UWPHexEditor", "UWPHexEditorControl\UWPHexEditor.wapproj", "{084DD872-04F5-472A-A859-8F6062FA6856}"
+Project("{C7167F0D-BC9F-4E6E-AFE1-012C56B48DB5}") = "UWPHexEditor", "UWPHexEditor\UWPHexEditor.wapproj", "{084DD872-04F5-472A-A859-8F6062FA6856}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfHexEditor.Sample.NET47", "WpfHexEditorControl\WPFHexaEditorExample\WpfHexEditor.Sample.NET47.csproj", "{001BD673-EF33-4FD2-AB7F-57F40FD54D53}"
 EndProject
