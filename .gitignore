@@ -2,3 +2,5 @@
 */obj/
 packages/
 .vs/
+UWPHexEditor/AppPackages/
+UWPHexEditor/BundleArtifacts/
