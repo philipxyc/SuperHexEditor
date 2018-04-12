@@ -1,0 +1,3 @@
+[submodule "WpfHexEditorControl"]
+	path = WpfHexEditorControl
+	url = https://github.com/abbaye/WpfHexEditorControl.git
