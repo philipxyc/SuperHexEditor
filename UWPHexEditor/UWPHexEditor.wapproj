@@ -38,10 +38,11 @@
     <TargetPlatformVersion>10.0.16299.0</TargetPlatformVersion>
     <TargetPlatformMinVersion>10.0.14393.0</TargetPlatformMinVersion>
     <DefaultLanguage>zh-CN</DefaultLanguage>
-    <PackageCertificateKeyFile>UWPHexEditorControl_TemporaryKey.pfx</PackageCertificateKeyFile>
+    <PackageCertificateKeyFile>UWPHexEditor_StoreKey.pfx</PackageCertificateKeyFile>
     <EntryPointProjectUniqueName>..\WpfHexEditorControl\WPFHexaEditorExample\WpfHexEditor.Sample.NET47.csproj</EntryPointProjectUniqueName>
     <AppxAutoIncrementPackageRevision>True</AppxAutoIncrementPackageRevision>
     <AppxBundlePlatforms>neutral</AppxBundlePlatforms>
+    <PackageCertificateThumbprint>6838E1F35E1CDA25294346071C65DAF07A13F15F</PackageCertificateThumbprint>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x86'">
     <DefaultLanguage>en-US</DefaultLanguage>
@@ -125,6 +126,8 @@
     <Content Include="Assets\Wide310x150Logo.scale-150.png" />
     <Content Include="Assets\Wide310x150Logo.scale-200.png" />
     <Content Include="Assets\Wide310x150Logo.scale-400.png" />
+    <None Include="UWPHexEditor_StoreKey.pfx" />
+    <None Include="Package.StoreAssociation.xml" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\WpfHexEditorControl\WPFHexaEditorExample\WpfHexEditor.Sample.NET47.csproj" />

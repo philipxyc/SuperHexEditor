@@ -4,3 +4,6 @@ packages/
 .vs/
 UWPHexEditor/AppPackages/
 UWPHexEditor/BundleArtifacts/
+*.pfx
+Package.StoreAssociation.xml
+_pkginfo.txt
