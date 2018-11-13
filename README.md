@@ -2,7 +2,7 @@ A powerful and open source Hex Editor for Windows10
 
 Localized in English, French, Russian, Polish, Portuguese and Chinese
 
-### You can get it simply from Microsoft Store (link)
+### You can get it simply from Microsoft Store (https://www.microsoft.com/p/super-hex-editor/9nnt3njhsf16)
 
 ## How to compile
 
