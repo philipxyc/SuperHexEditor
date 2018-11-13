@@ -7,8 +7,8 @@ Localized in English, French, Russian, Polish, Portuguese and Chinese
 ## How to compile
 
 ```bash
-git clone https://github.com/philipxyc/UWPHexEditor
-cd UWPHexEditor
+git clone https://github.com/philipxyc/SuperHexEditor
+cd SuperHexEditor
 git submodule init
 git submodule update
 ```
